@@ -47,5 +47,5 @@ On the BBG, navigate to myApps in the NFS folder. Then:
 
 - [Mike Ostrowka](https://github.com/Mike-Ostrowka)
 - [Benjamin Howard](https://github.com/bhoward27)
-- [Jason](https://github.com/jla690)
+- [Jason Li](https://github.com/jla690)
 - [Kevin Dhaliwal](https://github.com/dhaliwalk) 
