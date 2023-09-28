@@ -42,3 +42,10 @@ On the BBG, navigate to myApps in the NFS folder. Then:
         - Website allows training of an ML model
         - Edge Impulse library allows on-device inference of trained model
         - https://www.edgeimpulse.com/
+
+# Contributors
+
+- [Mike Ostrowka](https://github.com/Mike-Ostrowka)
+- [Benjamin Howard](https://github.com/bhoward27)
+- [Jason](https://github.com/jla690)
+- [Kevin Dhaliwal](https://github.com/dhaliwalk) 
